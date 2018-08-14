@@ -1,0 +1,3 @@
+class Wife{
+	String name;
+}

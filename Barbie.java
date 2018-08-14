@@ -1,0 +1,3 @@
+class Barbie{
+	String color;
+}
